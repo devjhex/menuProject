@@ -1,0 +1,12 @@
+{
+  "name": "menuproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "tailwind": "tailwindcss -i input.css -o output.css --watch"
+  },
+  "keywords": [],
+  "author": "devjhex",
+  "license": "ISC"
+}
